@@ -1,0 +1,20 @@
+Thank you for downloading Police Department 3.0, I hope you enjoy the assets.
+
+I have included 2 versions of Structure_02
+
+Gamma and Linear Color Space version.
+
+Gamma are using the default unity settings, in order to view Linear as intended, please open the image doc labled Structure 2 Scene Linear Color Settings and follow its settings.
+
+You can follow me on twitter, @SojaExiles  in order to be notified of new and free packages on the Unity Asset Store.
+
+If the package is to your liking, please leave a rating on the assets page.  
+
+It will help me out a lot so I can bring even more robust packages to the asset store.   
+
+Email me your ideas on what I should work on next.
+
+If you have any questions or issues, please e-mail me at Support@sojaexiles.com
+
+Thank you!
+Soja Exiles

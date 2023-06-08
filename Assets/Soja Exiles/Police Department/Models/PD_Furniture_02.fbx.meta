@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 92554231fd6bd2e45a81afef31d60033
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AdjustableBar
+    100002: Back
+    100004: BackBar
+    100006: Ball
+    100008: Ball holder
+    100010: Ball holder_02
+    100012: Ball.001
+    100014: Cabinet_Kitchen_Door.L
+    100016: Cabinet_Kitchen_Door.L.001
+    100018: Cabinet_Kitchen_Door.L.002
+    100020: Cabinet_Kitchen_Door.R
+    100022: Cabinet_Kitchen_Door.R.001
+    100024: Cabinet_Kitchen_Drawer
+    100026: Cabinet_Kitchen_Drawer.001
+    100028: Cabinet_Kitchen_Drawer.002
+    100030: Cabinet_Kitchen_Drawer.003
+    100032: Cabinet_Kitchen_Drawer.004
+    100034: Cabinet_Kitchen_Drawer.005
+    100036: Cabinet_Kitchen_PD_01_01
+    100038: Cabinet_Kitchen_PD_01_02
+    100040: Cabinet_Kitchen_PD_01_03
+    100042: Cabinet_Kitchen_PD_01_04
+    100044: Cabinet_Kitchen_PD_01_05
+    100046: CabinetOverhead_01_01
+    100048: CabinetOverhead_01_02
+    100050: Cap Detail
+    100052: Ceiling Lamp_PD_01_01
+    100054: Ceiling Lamp_PD_01_02
+    100056: Ceiling Lamp_PD_01_03
+    100058: CeilingVend_PD_01_01
+    100060: Countertop.001
+    100062: Countertop.002
+    100064: Countertop.003
+    100066: Countertop.004
+    100068: Countertop_01_01
+    100070: Countertop_Sink
+    100072: Display
+    100074: Door.L
+    100076: Door.L.003
+    100078: Door.R
+    100080: Drain
+    100082: Dumbell
+    100084: Dumbell.001
+    100086: Dumbell.002
+    100088: Dumbell.003
+    100090: DumbellRack
+    100092: Exercise Weight Bench
+    100094: Faucet
+    100096: Feet
+    100098: Foam
+    100100: Foam.001
+    100102: Foam.002
+    100104: HandBar
+    100106: Handle.003
+    100108: Handle.004
+    100110: Handle.005
+    100112: Handle.006
+    100114: Handle.007
+    100116: Handle.008
+    100118: Handle.009
+    100120: Handle.010
+    100122: Handle.011
+    100124: Handle.012
+    100126: Handle.013
+    100128: Handle.014
+    100130: Handle.018
+    100132: Headup
+    100134: Knob.004
+    100136: Knob.005
+    100138: Lamp
+    100140: Lamp Screen
+    100142: Leg Lift
+    100144: LiftingBar
+    100146: Light
+    100148: Light.001
+    100150: //RootNode
+    100152: Pipe
+    100154: Seat
+    100156: Shelf
+    100158: Shelf.001
+    100160: Sink
+    100162: Track
+    100164: Tredmill
+    400000: AdjustableBar
+    400002: Back
+    400004: BackBar
+    400006: Ball
+    400008: Ball holder
+    400010: Ball holder_02
+    400012: Ball.001
+    400014: Cabinet_Kitchen_Door.L
+    400016: Cabinet_Kitchen_Door.L.001
+    400018: Cabinet_Kitchen_Door.L.002
+    400020: Cabinet_Kitchen_Door.R
+    400022: Cabinet_Kitchen_Door.R.001
+    400024: Cabinet_Kitchen_Drawer
+    400026: Cabinet_Kitchen_Drawer.001
+    400028: Cabinet_Kitchen_Drawer.002
+    400030: Cabinet_Kitchen_Drawer.003
+    400032: Cabinet_Kitchen_Drawer.004
+    400034: Cabinet_Kitchen_Drawer.005
+    400036: Cabinet_Kitchen_PD_01_01
+    400038: Cabinet_Kitchen_PD_01_02
+    400040: Cabinet_Kitchen_PD_01_03
+    400042: Cabinet_Kitchen_PD_01_04
+    400044: Cabinet_Kitchen_PD_01_05
+    400046: CabinetOverhead_01_01
+    400048: CabinetOverhead_01_02
+    400050: Cap Detail
+    400052: Ceiling Lamp_PD_01_01
+    400054: Ceiling Lamp_PD_01_02
+    400056: Ceiling Lamp_PD_01_03
+    400058: CeilingVend_PD_01_01
+    400060: Countertop.001
+    400062: Countertop.002
+    400064: Countertop.003
+    400066: Countertop.004
+    400068: Countertop_01_01
+    400070: Countertop_Sink
+    400072: Display
+    400074: Door.L
+    400076: Door.L.003
+    400078: Door.R
+    400080: Drain
+    400082: Dumbell
+    400084: Dumbell.001
+    400086: Dumbell.002
+    400088: Dumbell.003
+    400090: DumbellRack
+    400092: Exercise Weight Bench
+    400094: Faucet
+    400096: Feet
+    400098: Foam
+    400100: Foam.001
+    400102: Foam.002
+    400104: HandBar
+    400106: Handle.003
+    400108: Handle.004
+    400110: Handle.005
+    400112: Handle.006
+    400114: Handle.007
+    400116: Handle.008
+    400118: Handle.009
+    400120: Handle.010
+    400122: Handle.011
+    400124: Handle.012
+    400126: Handle.013
+    400128: Handle.014
+    400130: Handle.018
+    400132: Headup
+    400134: Knob.004
+    400136: Knob.005
+    400138: Lamp
+    400140: Lamp Screen
+    400142: Leg Lift
+    400144: LiftingBar
+    400146: Light
+    400148: Light.001
+    400150: //RootNode
+    400152: Pipe
+    400154: Seat
+    400156: Shelf
+    400158: Shelf.001
+    400160: Sink
+    400162: Track
+    400164: Tredmill
+    2100000: No Name
+    2300000: AdjustableBar
+    2300002: Back
+    2300004: BackBar
+    2300006: Ball
+    2300008: Ball holder
+    2300010: Ball holder_02
+    2300012: Ball.001
+    2300014: Cabinet_Kitchen_Door.L
+    2300016: Cabinet_Kitchen_Door.L.001
+    2300018: Cabinet_Kitchen_Door.L.002
+    2300020: Cabinet_Kitchen_Door.R
+    2300022: Cabinet_Kitchen_Door.R.001
+    2300024: Cabinet_Kitchen_Drawer
+    2300026: Cabinet_Kitchen_Drawer.001
+    2300028: Cabinet_Kitchen_Drawer.002
+    2300030: Cabinet_Kitchen_Drawer.003
+    2300032: Cabinet_Kitchen_Drawer.004
+    2300034: Cabinet_Kitchen_Drawer.005
+    2300036: Cabinet_Kitchen_PD_01_01
+    2300038: Cabinet_Kitchen_PD_01_02
+    2300040: Cabinet_Kitchen_PD_01_03
+    2300042: Cabinet_Kitchen_PD_01_04
+    2300044: Cabinet_Kitchen_PD_01_05
+    2300046: CabinetOverhead_01_01
+    2300048: CabinetOverhead_01_02
+    2300050: Cap Detail
+    2300052: Ceiling Lamp_PD_01_01
+    2300054: Ceiling Lamp_PD_01_02
+    2300056: Ceiling Lamp_PD_01_03
+    2300058: CeilingVend_PD_01_01
+    2300060: Countertop.001
+    2300062: Countertop.002
+    2300064: Countertop.003
+    2300066: Countertop.004
+    2300068: Countertop_01_01
+    2300070: Countertop_Sink
+    2300072: Display
+    2300074: Door.L
+    2300076: Door.L.003
+    2300078: Door.R
+    2300080: Drain
+    2300082: Dumbell
+    2300084: Dumbell.001
+    2300086: Dumbell.002
+    2300088: Dumbell.003
+    2300090: DumbellRack
+    2300092: Exercise Weight Bench
+    2300094: Faucet
+    2300096: Feet
+    2300098: Foam
+    2300100: Foam.001
+    2300102: Foam.002
+    2300104: HandBar
+    2300106: Handle.003
+    2300108: Handle.004
+    2300110: Handle.005
+    2300112: Handle.006
+    2300114: Handle.007
+    2300116: Handle.008
+    2300118: Handle.009
+    2300120: Handle.010
+    2300122: Handle.011
+    2300124: Handle.012
+    2300126: Handle.013
+    2300128: Handle.014
+    2300130: Handle.018
+    2300132: Headup
+    2300134: Knob.004
+    2300136: Knob.005
+    2300138: Lamp
+    2300140: Lamp Screen
+    2300142: Leg Lift
+    2300144: LiftingBar
+    2300146: Light
+    2300148: Light.001
+    2300150: Pipe
+    2300152: Seat
+    2300154: Shelf
+    2300156: Shelf.001
+    2300158: Sink
+    2300160: Track
+    2300162: Tredmill
+    3300000: AdjustableBar
+    3300002: Back
+    3300004: BackBar
+    3300006: Ball
+    3300008: Ball holder
+    3300010: Ball holder_02
+    3300012: Ball.001
+    3300014: Cabinet_Kitchen_Door.L
+    3300016: Cabinet_Kitchen_Door.L.001
+    3300018: Cabinet_Kitchen_Door.L.002
+    3300020: Cabinet_Kitchen_Door.R
+    3300022: Cabinet_Kitchen_Door.R.001
+    3300024: Cabinet_Kitchen_Drawer
+    3300026: Cabinet_Kitchen_Drawer.001
+    3300028: Cabinet_Kitchen_Drawer.002
+    3300030: Cabinet_Kitchen_Drawer.003
+    3300032: Cabinet_Kitchen_Drawer.004
+    3300034: Cabinet_Kitchen_Drawer.005
+    3300036: Cabinet_Kitchen_PD_01_01
+    3300038: Cabinet_Kitchen_PD_01_02
+    3300040: Cabinet_Kitchen_PD_01_03
+    3300042: Cabinet_Kitchen_PD_01_04
+    3300044: Cabinet_Kitchen_PD_01_05
+    3300046: CabinetOverhead_01_01
+    3300048: CabinetOverhead_01_02
+    3300050: Cap Detail
+    3300052: Ceiling Lamp_PD_01_01
+    3300054: Ceiling Lamp_PD_01_02
+    3300056: Ceiling Lamp_PD_01_03
+    3300058: CeilingVend_PD_01_01
+    3300060: Countertop.001
+    3300062: Countertop.002
+    3300064: Countertop.003
+    3300066: Countertop.004
+    3300068: Countertop_01_01
+    3300070: Countertop_Sink
+    3300072: Display
+    3300074: Door.L
+    3300076: Door.L.003
+    3300078: Door.R
+    3300080: Drain
+    3300082: Dumbell
+    3300084: Dumbell.001
+    3300086: Dumbell.002
+    3300088: Dumbell.003
+    3300090: DumbellRack
+    3300092: Exercise Weight Bench
+    3300094: Faucet
+    3300096: Feet
+    3300098: Foam
+    3300100: Foam.001
+    3300102: Foam.002
+    3300104: HandBar
+    3300106: Handle.003
+    3300108: Handle.004
+    3300110: Handle.005
+    3300112: Handle.006
+    3300114: Handle.007
+    3300116: Handle.008
+    3300118: Handle.009
+    3300120: Handle.010
+    3300122: Handle.011
+    3300124: Handle.012
+    3300126: Handle.013
+    3300128: Handle.014
+    3300130: Handle.018
+    3300132: Headup
+    3300134: Knob.004
+    3300136: Knob.005
+    3300138: Lamp
+    3300140: Lamp Screen
+    3300142: Leg Lift
+    3300144: LiftingBar
+    3300146: Light
+    3300148: Light.001
+    3300150: Pipe
+    3300152: Seat
+    3300154: Shelf
+    3300156: Shelf.001
+    3300158: Sink
+    3300160: Track
+    3300162: Tredmill
+    4300000: Ceiling Lamp_PD_01_01
+    4300002: Lamp
+    4300004: Lamp Screen
+    4300006: Ceiling Lamp_PD_01_02
+    4300008: Light
+    4300010: CeilingVend_PD_01_01
+    4300012: Ceiling Lamp_PD_01_03
+    4300014: Light.001
+    4300016: Cabinet_Kitchen_PD_01_01
+    4300018: Countertop.003
+    4300020: Cabinet_Kitchen_Door.L
+    4300022: Handle.003
+    4300024: Cabinet_Kitchen_Drawer
+    4300026: Handle.007
+    4300028: Cabinet_Kitchen_Door.R
+    4300030: Handle.004
+    4300032: Cabinet_Kitchen_PD_01_02
+    4300034: Countertop.002
+    4300036: Cabinet_Kitchen_Door.L.001
+    4300038: Handle.008
+    4300040: Cabinet_Kitchen_Drawer.001
+    4300042: Handle.010
+    4300044: Cabinet_Kitchen_PD_01_03
+    4300046: Cabinet_Kitchen_Door.L.002
+    4300048: Handle.009
+    4300050: Cabinet_Kitchen_Drawer.002
+    4300052: Cabinet_Kitchen_Door.R.001
+    4300054: Handle.011
+    4300056: Countertop_Sink
+    4300058: Sink
+    4300060: Faucet
+    4300062: Knob.004
+    4300064: Drain
+    4300066: Knob.005
+    4300068: Pipe
+    4300070: Cabinet_Kitchen_PD_01_04
+    4300072: Countertop.001
+    4300074: Cabinet_Kitchen_Drawer.003
+    4300076: Handle.012
+    4300078: Cabinet_Kitchen_Drawer.004
+    4300080: Handle.005
+    4300082: Cabinet_Kitchen_Drawer.005
+    4300084: Handle.006
+    4300086: Cabinet_Kitchen_PD_01_05
+    4300088: Countertop.004
+    4300090: CabinetOverhead_01_01
+    4300092: Shelf
+    4300094: Door.R
+    4300096: Handle.018
+    4300098: Door.L
+    4300100: Handle.013
+    4300102: CabinetOverhead_01_02
+    4300104: Shelf.001
+    4300106: Door.L.003
+    4300108: Handle.014
+    4300110: Ball holder
+    4300112: Ball
+    4300114: Exercise Weight Bench
+    4300116: Seat
+    4300118: Back
+    4300120: AdjustableBar
+    4300122: LiftingBar
+    4300124: Dumbell.003
+    4300126: Dumbell
+    4300128: Dumbell.002
+    4300130: Dumbell.001
+    4300132: BackBar
+    4300134: Cap Detail
+    4300136: Foam.001
+    4300138: Leg Lift
+    4300140: Foam.002
+    4300142: Foam
+    4300144: Ball holder_02
+    4300146: Ball.001
+    4300148: DumbellRack
+    4300150: Tredmill
+    4300152: Display
+    4300154: Headup
+    4300156: HandBar
+    4300158: Track
+    4300160: Feet
+    4300162: Countertop_01_01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

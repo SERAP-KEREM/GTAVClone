@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 5a1dcce55c94be2448687b059a2cd713
+timeCreated: 1479755425
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chest
+    100002: ExposeTransform002
+    100004: ExposeTransform003
+    100006: Head
+    100008: Hips
+    100010: LeftArm
+    100012: LeftFoot
+    100014: LeftForeArm
+    100016: LeftForeArmTwist
+    100018: LeftForeArmTwist 1
+    100020: LeftHand
+    100022: LeftHandIndex1
+    100024: LeftHandIndex2
+    100026: LeftHandIndex3
+    100028: LeftHandLittle1
+    100030: LeftHandLittle2
+    100032: LeftHandLittle3
+    100034: LeftHandMiddle1
+    100036: LeftHandMiddle2
+    100038: LeftHandMiddle3
+    100040: LeftHandRing1
+    100042: LeftHandRing2
+    100044: LeftHandRing3
+    100046: LeftHandThumb1
+    100048: LeftHandThumb2
+    100050: LeftHandThumb3
+    100052: LeftLeg
+    100054: LeftPlatform
+    100056: LeftShoulder
+    100058: LeftToeBase
+    100060: LeftUpLeg
+    100062: Neck
+    100064: //RootNode
+    100066: Panama
+    100068: Point005
+    100070: Point006
+    100072: Point008
+    100074: Point010
+    100076: RightArm
+    100078: RightFoot
+    100080: RightForeArm
+    100082: RightHand
+    100084: RightHandIndex1
+    100086: RightHandIndex2
+    100088: RightHandIndex3
+    100090: RightHandLittle1
+    100092: RightHandLittle2
+    100094: RightHandLittle3
+    100096: RightHandMiddle1
+    100098: RightHandMiddle2
+    100100: RightHandMiddle3
+    100102: RightHandRing1
+    100104: RightHandRing2
+    100106: RightHandRing3
+    100108: RightHandThumb1
+    100110: RightHandThumb2
+    100112: RightHandThumb3
+    100114: RightLeg
+    100116: RightPlatform
+    100118: RightShoulder
+    100120: RightToeBase
+    100122: RightUpLeg
+    100124: Root
+    100126: Spine
+    100128: WeaponHolder
+    400000: Chest
+    400002: ExposeTransform002
+    400004: ExposeTransform003
+    400006: Head
+    400008: Hips
+    400010: LeftArm
+    400012: LeftFoot
+    400014: LeftForeArm
+    400016: LeftForeArmTwist
+    400018: LeftForeArmTwist 1
+    400020: LeftHand
+    400022: LeftHandIndex1
+    400024: LeftHandIndex2
+    400026: LeftHandIndex3
+    400028: LeftHandLittle1
+    400030: LeftHandLittle2
+    400032: LeftHandLittle3
+    400034: LeftHandMiddle1
+    400036: LeftHandMiddle2
+    400038: LeftHandMiddle3
+    400040: LeftHandRing1
+    400042: LeftHandRing2
+    400044: LeftHandRing3
+    400046: LeftHandThumb1
+    400048: LeftHandThumb2
+    400050: LeftHandThumb3
+    400052: LeftLeg
+    400054: LeftPlatform
+    400056: LeftShoulder
+    400058: LeftToeBase
+    400060: LeftUpLeg
+    400062: Neck
+    400064: Panama
+    400066: //RootNode
+    400068: Point005
+    400070: Point006
+    400072: Point008
+    400074: Point010
+    400076: RightArm
+    400078: RightFoot
+    400080: RightForeArm
+    400082: RightHand
+    400084: RightHandIndex1
+    400086: RightHandIndex2
+    400088: RightHandIndex3
+    400090: RightHandLittle1
+    400092: RightHandLittle2
+    400094: RightHandLittle3
+    400096: RightHandMiddle1
+    400098: RightHandMiddle2
+    400100: RightHandMiddle3
+    400102: RightHandRing1
+    400104: RightHandRing2
+    400106: RightHandRing3
+    400108: RightHandThumb1
+    400110: RightHandThumb2
+    400112: RightHandThumb3
+    400114: RightLeg
+    400116: RightPlatform
+    400118: RightShoulder
+    400120: RightToeBase
+    400122: RightUpLeg
+    400124: Root
+    400126: Spine
+    400128: WeaponHolder
+    4300000: Panama
+    7400000: rebel_01_02
+    9500000: //RootNode
+    13700000: Panama
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

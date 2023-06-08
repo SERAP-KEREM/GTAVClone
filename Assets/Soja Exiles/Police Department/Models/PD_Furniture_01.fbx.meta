@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 01e0a7356def4c2458af47aff3459add
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmRest
+    100002: Armrest
+    100004: ArmRest Cus
+    100006: Back Bar
+    100008: Back Cush
+    100010: Back Cushion
+    100012: Back.001
+    100014: Bar
+    100016: Bar.001
+    100018: Bar.002
+    100020: Bed_PD_01_01
+    100022: Bench_PD_01_01
+    100024: Bench_PD_01_02
+    100026: Button
+    100028: Button.001
+    100030: Cabinate_PD_01_01
+    100032: Chair_PD_01_01
+    100034: Chair_PD_01_02
+    100036: Chair_PD_01_03
+    100038: Chair_PD_01_04
+    100040: Chair_PD_01_04 Feet
+    100042: Chair_PD_01_04_TOP
+    100044: Chair_PD_01_05
+    100046: Chair_PD_Seat
+    100048: Cushion
+    100050: Cushion.001
+    100052: Cushion.002
+    100054: Cushion.003
+    100056: Detail
+    100058: Detail.001
+    100060: Door.L.002
+    100062: Door.R.001
+    100064: Door_L
+    100066: Door_L.001
+    100068: Door_R.001
+    100070: Door_R.002
+    100072: Drawer
+    100074: Drawer.001
+    100076: DrawerBottom
+    100078: DrawerHand
+    100080: DrawerHand.001
+    100082: DrawerHand.002
+    100084: DrawerMiddle
+    100086: DrawerTablle_01_01
+    100088: DrawerTablle_01_02
+    100090: DrawerTablle_01_03
+    100092: DrawerTop
+    100094: Faucet.001
+    100096: Feet.002
+    100098: Feet.003
+    100100: FileCabDrawer_01_01
+    100102: FileCabDrawer_01_01.001
+    100104: FileCabDrawer_01_01.002
+    100106: FileCabDrawer_01_01.003
+    100108: FileCabDrawer_01_01.004
+    100110: FileCabDrawer_01_01.005
+    100112: FileCabDrawer_01_01.006
+    100114: FileCabDrawer_01_01.007
+    100116: FileCabDrawer_01_01.008
+    100118: FileCabDrawer_01_01.009
+    100120: FileCabDrawer_01_01.012
+    100122: FileCabDrawer_01_01.013
+    100124: filecabhandle
+    100126: filecabhandle.001
+    100128: filecabhandle.002
+    100130: filecabhandle.003
+    100132: filecabhandle.004
+    100134: filecabhandle.005
+    100136: filecabhandle.006
+    100138: filecabhandle.007
+    100140: filecabhandle.008
+    100142: filecabhandle.010
+    100144: filecabhandle.012
+    100146: filecabhandle.013
+    100148: FileCabinate_01_01
+    100150: FileCabinate_01_02
+    100152: FileCabinate_01_03
+    100154: FileCabinate_01_04
+    100156: Glass.001
+    100158: GlassBase
+    100160: Handel
+    100162: Handel.001
+    100164: Handle
+    100166: Handle.002
+    100168: Knob
+    100170: Knob.001
+    100172: Knob.002
+    100174: Knob.003
+    100176: Legs
+    100178: Legs.001
+    100180: Legs.002
+    100182: Legs.003
+    100184: Mesh
+    100186: Mic_PD_01_01
+    100188: //RootNode
+    100190: podium_PD_01_01
+    100192: Seat.001
+    100194: Seat.002
+    100196: Studs
+    100198: Table Legs.007
+    100200: Table_PD_01_01
+    100202: Table_PD_01_02
+    100204: Table_PD_01_03
+    100206: Table_PD_01_04
+    100208: Table_Standing_PD_01_01
+    100210: Table_Top
+    100212: Table_Top.001
+    100214: Tablebase
+    100216: TableDivider
+    100218: Toilet
+    100220: Toilet_Sink_PD_01_01
+    100222: Top
+    100224: Wheel
+    100226: Wheel Cover
+    100228: Wheel Cover.001
+    100230: Wheel Cover.002
+    100232: Wheel Cover.003
+    100234: Wheel Cover.004
+    100236: Wheel Cover.005
+    100238: Wheel Cover.007
+    100240: Wheel Cover.008
+    100242: Wheel Cover.009
+    100244: Wheel Cover.010
+    100246: Wheel.001
+    100248: Wheel.002
+    100250: Wheels.000
+    100252: Wheels.001
+    100254: Wheels.002
+    100256: Wheels.003
+    100258: Wheels.004
+    100260: Wheels.005
+    100262: Wheels.015
+    400000: ArmRest
+    400002: Armrest
+    400004: ArmRest Cus
+    400006: Back Bar
+    400008: Back Cush
+    400010: Back Cushion
+    400012: Back.001
+    400014: Bar
+    400016: Bar.001
+    400018: Bar.002
+    400020: Bed_PD_01_01
+    400022: Bench_PD_01_01
+    400024: Bench_PD_01_02
+    400026: Button
+    400028: Button.001
+    400030: Cabinate_PD_01_01
+    400032: Chair_PD_01_01
+    400034: Chair_PD_01_02
+    400036: Chair_PD_01_03
+    400038: Chair_PD_01_04
+    400040: Chair_PD_01_04 Feet
+    400042: Chair_PD_01_04_TOP
+    400044: Chair_PD_01_05
+    400046: Chair_PD_Seat
+    400048: Cushion
+    400050: Cushion.001
+    400052: Cushion.002
+    400054: Cushion.003
+    400056: Detail
+    400058: Detail.001
+    400060: Door.L.002
+    400062: Door.R.001
+    400064: Door_L
+    400066: Door_L.001
+    400068: Door_R.001
+    400070: Door_R.002
+    400072: Drawer
+    400074: Drawer.001
+    400076: DrawerBottom
+    400078: DrawerHand
+    400080: DrawerHand.001
+    400082: DrawerHand.002
+    400084: DrawerMiddle
+    400086: DrawerTablle_01_01
+    400088: DrawerTablle_01_02
+    400090: DrawerTablle_01_03
+    400092: DrawerTop
+    400094: Faucet.001
+    400096: Feet.002
+    400098: Feet.003
+    400100: FileCabDrawer_01_01
+    400102: FileCabDrawer_01_01.001
+    400104: FileCabDrawer_01_01.002
+    400106: FileCabDrawer_01_01.003
+    400108: FileCabDrawer_01_01.004
+    400110: FileCabDrawer_01_01.005
+    400112: FileCabDrawer_01_01.006
+    400114: FileCabDrawer_01_01.007
+    400116: FileCabDrawer_01_01.008
+    400118: FileCabDrawer_01_01.009
+    400120: FileCabDrawer_01_01.012
+    400122: FileCabDrawer_01_01.013
+    400124: filecabhandle
+    400126: filecabhandle.001
+    400128: filecabhandle.002
+    400130: filecabhandle.003
+    400132: filecabhandle.004
+    400134: filecabhandle.005
+    400136: filecabhandle.006
+    400138: filecabhandle.007
+    400140: filecabhandle.008
+    400142: filecabhandle.010
+    400144: filecabhandle.012
+    400146: filecabhandle.013
+    400148: FileCabinate_01_01
+    400150: FileCabinate_01_02
+    400152: FileCabinate_01_03
+    400154: FileCabinate_01_04
+    400156: Glass.001
+    400158: GlassBase
+    400160: Handel
+    400162: Handel.001
+    400164: Handle
+    400166: Handle.002
+    400168: Knob
+    400170: Knob.001
+    400172: Knob.002
+    400174: Knob.003
+    400176: Legs
+    400178: Legs.001
+    400180: Legs.002
+    400182: Legs.003
+    400184: Mesh
+    400186: Mic_PD_01_01
+    400188: //RootNode
+    400190: podium_PD_01_01
+    400192: Seat.001
+    400194: Seat.002
+    400196: Studs
+    400198: Table Legs.007
+    400200: Table_PD_01_01
+    400202: Table_PD_01_02
+    400204: Table_PD_01_03
+    400206: Table_PD_01_04
+    400208: Table_Standing_PD_01_01
+    400210: Table_Top
+    400212: Table_Top.001
+    400214: Tablebase
+    400216: TableDivider
+    400218: Toilet
+    400220: Toilet_Sink_PD_01_01
+    400222: Top
+    400224: Wheel
+    400226: Wheel Cover
+    400228: Wheel Cover.001
+    400230: Wheel Cover.002
+    400232: Wheel Cover.003
+    400234: Wheel Cover.004
+    400236: Wheel Cover.005
+    400238: Wheel Cover.007
+    400240: Wheel Cover.008
+    400242: Wheel Cover.009
+    400244: Wheel Cover.010
+    400246: Wheel.001
+    400248: Wheel.002
+    400250: Wheels.000
+    400252: Wheels.001
+    400254: Wheels.002
+    400256: Wheels.003
+    400258: Wheels.004
+    400260: Wheels.005
+    400262: Wheels.015
+    2100000: No Name
+    2300000: ArmRest
+    2300002: Armrest
+    2300004: ArmRest Cus
+    2300006: Back Bar
+    2300008: Back Cush
+    2300010: Back Cushion
+    2300012: Back.001
+    2300014: Bar
+    2300016: Bar.001
+    2300018: Bar.002
+    2300020: Bed_PD_01_01
+    2300022: Bench_PD_01_01
+    2300024: Bench_PD_01_02
+    2300026: Button
+    2300028: Button.001
+    2300030: Cabinate_PD_01_01
+    2300032: Chair_PD_01_01
+    2300034: Chair_PD_01_02
+    2300036: Chair_PD_01_03
+    2300038: Chair_PD_01_04
+    2300040: Chair_PD_01_04 Feet
+    2300042: Chair_PD_01_04_TOP
+    2300044: Chair_PD_01_05
+    2300046: Chair_PD_Seat
+    2300048: Cushion
+    2300050: Cushion.001
+    2300052: Cushion.002
+    2300054: Cushion.003
+    2300056: Detail
+    2300058: Detail.001
+    2300060: Door.L.002
+    2300062: Door.R.001
+    2300064: Door_L
+    2300066: Door_L.001
+    2300068: Door_R.001
+    2300070: Door_R.002
+    2300072: Drawer
+    2300074: Drawer.001
+    2300076: DrawerBottom
+    2300078: DrawerHand
+    2300080: DrawerHand.001
+    2300082: DrawerHand.002
+    2300084: DrawerMiddle
+    2300086: DrawerTablle_01_01
+    2300088: DrawerTablle_01_02
+    2300090: DrawerTablle_01_03
+    2300092: DrawerTop
+    2300094: Faucet.001
+    2300096: Feet.002
+    2300098: Feet.003
+    2300100: FileCabDrawer_01_01
+    2300102: FileCabDrawer_01_01.001
+    2300104: FileCabDrawer_01_01.002
+    2300106: FileCabDrawer_01_01.003
+    2300108: FileCabDrawer_01_01.004
+    2300110: FileCabDrawer_01_01.005
+    2300112: FileCabDrawer_01_01.006
+    2300114: FileCabDrawer_01_01.007
+    2300116: FileCabDrawer_01_01.008
+    2300118: FileCabDrawer_01_01.009
+    2300120: FileCabDrawer_01_01.012
+    2300122: FileCabDrawer_01_01.013
+    2300124: filecabhandle
+    2300126: filecabhandle.001
+    2300128: filecabhandle.002
+    2300130: filecabhandle.003
+    2300132: filecabhandle.004
+    2300134: filecabhandle.005
+    2300136: filecabhandle.006
+    2300138: filecabhandle.007
+    2300140: filecabhandle.008
+    2300142: filecabhandle.010
+    2300144: filecabhandle.012
+    2300146: filecabhandle.013
+    2300148: FileCabinate_01_01
+    2300150: FileCabinate_01_02
+    2300152: FileCabinate_01_03
+    2300154: FileCabinate_01_04
+    2300156: Glass.001
+    2300158: GlassBase
+    2300160: Handel
+    2300162: Handel.001
+    2300164: Handle
+    2300166: Handle.002
+    2300168: Knob
+    2300170: Knob.001
+    2300172: Knob.002
+    2300174: Knob.003
+    2300176: Legs
+    2300178: Legs.001
+    2300180: Legs.002
+    2300182: Legs.003
+    2300184: Mesh
+    2300186: Mic_PD_01_01
+    2300188: podium_PD_01_01
+    2300190: Seat.001
+    2300192: Seat.002
+    2300194: Studs
+    2300196: Table Legs.007
+    2300198: Table_PD_01_01
+    2300200: Table_PD_01_02
+    2300202: Table_PD_01_03
+    2300204: Table_PD_01_04
+    2300206: Table_Standing_PD_01_01
+    2300208: Table_Top
+    2300210: Table_Top.001
+    2300212: Tablebase
+    2300214: TableDivider
+    2300216: Toilet
+    2300218: Toilet_Sink_PD_01_01
+    2300220: Top
+    2300222: Wheel
+    2300224: Wheel Cover
+    2300226: Wheel Cover.001
+    2300228: Wheel Cover.002
+    2300230: Wheel Cover.003
+    2300232: Wheel Cover.004
+    2300234: Wheel Cover.005
+    2300236: Wheel Cover.007
+    2300238: Wheel Cover.008
+    2300240: Wheel Cover.009
+    2300242: Wheel Cover.010
+    2300244: Wheel.001
+    2300246: Wheel.002
+    2300248: Wheels.000
+    2300250: Wheels.001
+    2300252: Wheels.002
+    2300254: Wheels.003
+    2300256: Wheels.004
+    2300258: Wheels.005
+    2300260: Wheels.015
+    3300000: ArmRest
+    3300002: Armrest
+    3300004: ArmRest Cus
+    3300006: Back Bar
+    3300008: Back Cush
+    3300010: Back Cushion
+    3300012: Back.001
+    3300014: Bar
+    3300016: Bar.001
+    3300018: Bar.002
+    3300020: Bed_PD_01_01
+    3300022: Bench_PD_01_01
+    3300024: Bench_PD_01_02
+    3300026: Button
+    3300028: Button.001
+    3300030: Cabinate_PD_01_01
+    3300032: Chair_PD_01_01
+    3300034: Chair_PD_01_02
+    3300036: Chair_PD_01_03
+    3300038: Chair_PD_01_04
+    3300040: Chair_PD_01_04 Feet
+    3300042: Chair_PD_01_04_TOP
+    3300044: Chair_PD_01_05
+    3300046: Chair_PD_Seat
+    3300048: Cushion
+    3300050: Cushion.001
+    3300052: Cushion.002
+    3300054: Cushion.003
+    3300056: Detail
+    3300058: Detail.001
+    3300060: Door.L.002
+    3300062: Door.R.001
+    3300064: Door_L
+    3300066: Door_L.001
+    3300068: Door_R.001
+    3300070: Door_R.002
+    3300072: Drawer
+    3300074: Drawer.001
+    3300076: DrawerBottom
+    3300078: DrawerHand
+    3300080: DrawerHand.001
+    3300082: DrawerHand.002
+    3300084: DrawerMiddle
+    3300086: DrawerTablle_01_01
+    3300088: DrawerTablle_01_02
+    3300090: DrawerTablle_01_03
+    3300092: DrawerTop
+    3300094: Faucet.001
+    3300096: Feet.002
+    3300098: Feet.003
+    3300100: FileCabDrawer_01_01
+    3300102: FileCabDrawer_01_01.001
+    3300104: FileCabDrawer_01_01.002
+    3300106: FileCabDrawer_01_01.003
+    3300108: FileCabDrawer_01_01.004
+    3300110: FileCabDrawer_01_01.005
+    3300112: FileCabDrawer_01_01.006
+    3300114: FileCabDrawer_01_01.007
+    3300116: FileCabDrawer_01_01.008
+    3300118: FileCabDrawer_01_01.009
+    3300120: FileCabDrawer_01_01.012
+    3300122: FileCabDrawer_01_01.013
+    3300124: filecabhandle
+    3300126: filecabhandle.001
+    3300128: filecabhandle.002
+    3300130: filecabhandle.003
+    3300132: filecabhandle.004
+    3300134: filecabhandle.005
+    3300136: filecabhandle.006
+    3300138: filecabhandle.007
+    3300140: filecabhandle.008
+    3300142: filecabhandle.010
+    3300144: filecabhandle.012
+    3300146: filecabhandle.013
+    3300148: FileCabinate_01_01
+    3300150: FileCabinate_01_02
+    3300152: FileCabinate_01_03
+    3300154: FileCabinate_01_04
+    3300156: Glass.001
+    3300158: GlassBase
+    3300160: Handel
+    3300162: Handel.001
+    3300164: Handle
+    3300166: Handle.002
+    3300168: Knob
+    3300170: Knob.001
+    3300172: Knob.002
+    3300174: Knob.003
+    3300176: Legs
+    3300178: Legs.001
+    3300180: Legs.002
+    3300182: Legs.003
+    3300184: Mesh
+    3300186: Mic_PD_01_01
+    3300188: podium_PD_01_01
+    3300190: Seat.001
+    3300192: Seat.002
+    3300194: Studs
+    3300196: Table Legs.007
+    3300198: Table_PD_01_01
+    3300200: Table_PD_01_02
+    3300202: Table_PD_01_03
+    3300204: Table_PD_01_04
+    3300206: Table_Standing_PD_01_01
+    3300208: Table_Top
+    3300210: Table_Top.001
+    3300212: Tablebase
+    3300214: TableDivider
+    3300216: Toilet
+    3300218: Toilet_Sink_PD_01_01
+    3300220: Top
+    3300222: Wheel
+    3300224: Wheel Cover
+    3300226: Wheel Cover.001
+    3300228: Wheel Cover.002
+    3300230: Wheel Cover.003
+    3300232: Wheel Cover.004
+    3300234: Wheel Cover.005
+    3300236: Wheel Cover.007
+    3300238: Wheel Cover.008
+    3300240: Wheel Cover.009
+    3300242: Wheel Cover.010
+    3300244: Wheel.001
+    3300246: Wheel.002
+    3300248: Wheels.000
+    3300250: Wheels.001
+    3300252: Wheels.002
+    3300254: Wheels.003
+    3300256: Wheels.004
+    3300258: Wheels.005
+    3300260: Wheels.015
+    4300000: Chair_PD_01_02
+    4300002: Bar.002
+    4300004: Wheel Cover.001
+    4300006: Wheels.000
+    4300008: Wheel Cover.007
+    4300010: Wheels.001
+    4300012: Wheel Cover.008
+    4300014: Wheels.003
+    4300016: Wheel Cover.009
+    4300018: Wheels.004
+    4300020: Wheel Cover.010
+    4300022: Wheels.005
+    4300024: Seat.001
+    4300026: ArmRest
+    4300028: ArmRest Cus
+    4300030: Back Bar
+    4300032: Back Cush
+    4300034: Mesh
+    4300036: Chair_PD_01_05
+    4300038: Bar.001
+    4300040: Wheel Cover.005
+    4300042: Wheels.002
+    4300044: Wheel Cover.004
+    4300046: Wheel.002
+    4300048: Wheel Cover.003
+    4300050: Wheel
+    4300052: Wheel Cover.002
+    4300054: Wheel.001
+    4300056: Wheel Cover
+    4300058: Wheels.015
+    4300060: Cushion
+    4300062: Armrest
+    4300064: Chair_PD_01_01
+    4300066: Chair_PD_Seat
+    4300068: Bar
+    4300070: Back.001
+    4300072: Table_PD_01_01
+    4300074: Table Legs.007
+    4300076: Detail
+    4300078: podium_PD_01_01
+    4300080: Legs.001
+    4300082: Mic_PD_01_01
+    4300084: Table_PD_01_02
+    4300086: Legs
+    4300088: Studs
+    4300090: TableDivider
+    4300092: Table_Standing_PD_01_01
+    4300094: Top
+    4300096: Door_L
+    4300098: Knob.001
+    4300100: Door_R.002
+    4300102: Knob
+    4300104: Door_L.001
+    4300106: Knob.002
+    4300108: Door_R.001
+    4300110: Knob.003
+    4300112: GlassBase
+    4300114: Glass.001
+    4300116: Cabinate_PD_01_01
+    4300118: Door.L.002
+    4300120: Handle.002
+    4300122: Door.R.001
+    4300124: Handle
+    4300126: Feet.002
+    4300128: Bed_PD_01_01
+    4300130: Cushion.001
+    4300132: Legs.002
+    4300134: Toilet_Sink_PD_01_01
+    4300136: Toilet
+    4300138: Faucet.001
+    4300140: Button
+    4300142: Button.001
+    4300144: Chair_PD_01_03
+    4300146: Back Cushion
+    4300148: Cushion.003
+    4300150: Table_PD_01_04
+    4300152: Legs.003
+    4300154: DrawerTablle_01_01
+    4300156: DrawerTop
+    4300158: DrawerHand.002
+    4300160: DrawerBottom
+    4300162: DrawerHand.001
+    4300164: DrawerMiddle
+    4300166: DrawerHand
+    4300168: Feet.003
+    4300170: DrawerTablle_01_02
+    4300172: Table_Top
+    4300174: Drawer
+    4300176: Handel
+    4300178: DrawerTablle_01_03
+    4300180: Table_Top.001
+    4300182: Drawer.001
+    4300184: Handel.001
+    4300186: Table_PD_01_03
+    4300188: Tablebase
+    4300190: Bench_PD_01_01
+    4300192: Bench_PD_01_02
+    4300194: Seat.002
+    4300196: Detail.001
+    4300198: FileCabinate_01_01
+    4300200: FileCabDrawer_01_01
+    4300202: filecabhandle
+    4300204: FileCabDrawer_01_01.001
+    4300206: filecabhandle.001
+    4300208: FileCabDrawer_01_01.002
+    4300210: filecabhandle.002
+    4300212: FileCabDrawer_01_01.003
+    4300214: filecabhandle.003
+    4300216: FileCabinate_01_02
+    4300218: FileCabDrawer_01_01.006
+    4300220: filecabhandle.006
+    4300222: FileCabDrawer_01_01.007
+    4300224: filecabhandle.007
+    4300226: FileCabinate_01_03
+    4300228: FileCabDrawer_01_01.004
+    4300230: filecabhandle.010
+    4300232: FileCabDrawer_01_01.005
+    4300234: filecabhandle.004
+    4300236: FileCabDrawer_01_01.008
+    4300238: filecabhandle.005
+    4300240: FileCabDrawer_01_01.009
+    4300242: filecabhandle.008
+    4300244: FileCabinate_01_04
+    4300246: FileCabDrawer_01_01.012
+    4300248: filecabhandle.012
+    4300250: FileCabDrawer_01_01.013
+    4300252: filecabhandle.013
+    4300254: Chair_PD_01_04
+    4300256: Chair_PD_01_04 Feet
+    4300258: Chair_PD_01_04_TOP
+    4300260: Cushion.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
